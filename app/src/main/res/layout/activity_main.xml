@@ -14,7 +14,6 @@
         android:layout_marginTop="@dimen/margin_normal"
         android:hint="@string/hint_download"
         android:maxLines="2"
-        android:text="https://d2gjspw5enfim.cloudfront.net/qot_web/tignum_x_video.mp4"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
