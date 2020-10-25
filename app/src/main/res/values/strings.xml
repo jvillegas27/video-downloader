@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Video Downloader</string>
+    <string name="hint_download">File url</string>
+    <string name="download">Download</string>
+    <string name="permission_storage_denied">Storage permission denied</string>
+    <string name="download_complete">Download complete</string>
+    <string name="error_general">Error retrieving the video</string>
+    <string name="empty_url">Url must not be empty</string>
+    <string name="video_file_exist">This video was already downloaded</string>
+    <string name="url_is_not_valid">The url is not valid</string>
+    <string name="item_deleted">File %s deleted</string>
+    <string name="download_files_title">Downloaded files</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="connection_error">Internet connection error</string>
+</resources>
